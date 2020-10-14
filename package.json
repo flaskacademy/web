@@ -13,6 +13,8 @@
     "@nuxtjs/pwa": "^3.2.2"
   },
   "dependencies": {
+    "@primer/css": "^15.2.0",
+    "@primer/octicons": "^11.0.0",
     "nuxt": "^2.14.6"
   }
 }
